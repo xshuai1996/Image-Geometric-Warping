@@ -4,13 +4,13 @@ This project warps square images round and recover them back to square shape aga
 
 ### Bilinear interpolation
 
-![image](./bilinear.jpg)
+![image](./images/bilinear.jpg)
 
 ### Result
 
 Original:
-![image](original.jpg)
+![image](./images/original.jpg)
 After geometric warping:
-![image](warpping.jpg)
+![image](./images/warpping.jpg)
 Recovery:
-![image](recovering.jpg)
+![image](./images/recovering.jpg)
