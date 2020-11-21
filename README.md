@@ -14,3 +14,5 @@ After geometric warping:
 ![image](./images/warpping.jpg)
 Recovery:
 ![image](./images/recovering.jpg)
+-----
+![image](./images/dis.jpg)
